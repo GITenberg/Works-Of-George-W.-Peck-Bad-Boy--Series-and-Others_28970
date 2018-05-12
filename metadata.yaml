@@ -1,0 +1,37 @@
+_repo: Works-Of-George-W.-Peck-Bad-Boy--Series-and-Others_28970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: files/25488/25488-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peck, George W. (George Wilbur)
+    alias: Peck, George Wilbur
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '3383'
+    url: http://www.gutenberg.org/2009/agents/3383
+    wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indexes'
+title: 'Works Of George W. Peck
+
+  A Linked Index to the Project Gutenberg Editions of The
+
+  "Bad Boy" Series and Others'
+url: http://www.gutenberg.org/ebooks/28970
